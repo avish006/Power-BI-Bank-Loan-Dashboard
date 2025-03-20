@@ -11,7 +11,7 @@ This project involves analyzing a dataset containing information about bank loan
 
 Data Extraction & Processing: Cleaned and structured raw loan data for analysis.
 
-SQL Analysis: Executed complex SQL queries to extract insights from the dataset.
+SQL Analysis: Executed SQL queries to extract insights from the dataset.
 
 Interactive Dashboard: Built a dynamic dashboard to visualize key trends and patterns.
 
@@ -23,36 +23,28 @@ Actionable Insights: Identified factors influencing loan approvals and potential
 
 ***🛠️ Technologies Used***
 
-SQL (PostgreSQL/MySQL) - For querying and analyzing loan data.
+SQL (PostgreSQL) - For querying and analyzing loan data.
 
-Power BI/Tableau - For creating an interactive dashboard.
-
-Python (Pandas, Matplotlib, Seaborn) (if applicable) - For additional data processing and visualization.
-
-Git & GitHub - Version control and repository management.
-
+Power BI - For creating an interactive dashboard.
 
 
 
 ***📊 Dashboard Preview***
+![image](https://github.com/user-attachments/assets/068fee74-f989-41ea-87ec-7c5e10d82a86)
+![image](https://github.com/user-attachments/assets/6bad3364-03a2-46ab-96a6-976d4423e3fd)
+![image](https://github.com/user-attachments/assets/79c3cd0f-c0be-4594-9e5f-bd8ab1e68fa6)
 
-(Attach a screenshot of your interactive dashboard here if possible)
-
-
-
-***📝 SQL Query Examples***
-
-Here’s an example SQL query used to analyze loan approval rates:
 
 
 
 ***📈 Insights Gained***
-
-High default rates among specific income groups.
-
-Strong correlation between credit score and loan approval.
-
-Risk assessment factors that banks consider before approving loans.
+1. Loan Applications Are Increasing Steadily
+2. Majority of Loans Are Successfully Repaid, but Defaults Are Significant
+3. High Debt-to-Income (DTI) Ratios Are Linked to Higher Default Rates
+4. Longer-Term Loans Are More Popular But Riskier
+5. Interest Rates Are Correlated with Loan Status
+6. Employment Length and Loan Repayment Ability
+7. Home Ownership Affects Default Rates
 
 
 
