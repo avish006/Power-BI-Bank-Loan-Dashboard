@@ -1,11 +1,12 @@
 # Power-BI-Bank-Loan-Dashboard
-📊 Bank Loan Data Analysis
+**📊 Bank Loan Data Analysis**
 
-📌 Project Overview
+***📌 Project Overview***
 
 This project involves analyzing a dataset containing information about bank loans. Using SQL queries and an interactive dashboard, I derived key insights into loan distributions, customer demographics, and risk assessment factors. The goal was to explore patterns in loan approvals, defaults, and other financial metrics to assist in better decision-making for financial institutions.
 
-🚀 Features
+
+***🚀 Features***
 
 Data Extraction & Processing: Cleaned and structured raw loan data for analysis.
 
@@ -17,7 +18,8 @@ Key Metrics: Loan approval rate, default percentage, customer segmentation, inte
 
 Actionable Insights: Identified factors influencing loan approvals and potential risks.
 
-🛠️ Technologies Used
+
+***🛠️ Technologies Used***
 
 SQL (PostgreSQL/MySQL) - For querying and analyzing loan data.
 
@@ -27,17 +29,16 @@ Python (Pandas, Matplotlib, Seaborn) (if applicable) - For additional data proce
 
 Git & GitHub - Version control and repository management.
 
-📂 Repository Structure
 
-📊 Dashboard Preview
+***📊 Dashboard Preview***
 
 (Attach a screenshot of your interactive dashboard here if possible)
 
-📝 SQL Query Examples
+***📝 SQL Query Examples***
 
 Here’s an example SQL query used to analyze loan approval rates:
 
-📈 Insights Gained
+***📈 Insights Gained***
 
 High default rates among specific income groups.
 
@@ -45,7 +46,7 @@ Strong correlation between credit score and loan approval.
 
 Risk assessment factors that banks consider before approving loans.
 
-🔥 How to Use
+***🔥 How to Use***
 
 Clone the repository:
 
