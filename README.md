@@ -1,5 +1,5 @@
-# Power-BI-Bank-Loan-Dashboard
-**📊 Bank Loan Data Analysis**
+# 📊 Bank Loan Data Analysis
+
 
 ***📌 Project Overview***
 
